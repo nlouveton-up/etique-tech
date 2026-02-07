@@ -1,0 +1,12 @@
+site_name: Projet APTEC
+theme: readthedocs
+nav:
+  - Accueil: index.md
+  - Cadre:
+      - Référentiel de compétences: cadre/referentiel-competences.md
+  - Exemples de scénarios:
+      - Science-fiction et interfaces: exemples/ihmscifi.md
+markdown_extensions:
+  - footnotes
+  - tables
+  - attr_list
